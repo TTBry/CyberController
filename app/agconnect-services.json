@@ -1,1 +1,5 @@
-#请替换成自己的配置
+{
+  "client": {
+    "package_name": "com.elexlab.cybercontroller"
+  }
+}
